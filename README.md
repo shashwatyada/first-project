@@ -27,3 +27,6 @@ This project analyzes e-commerce sales data using Advanced Excel tools like Pivo
 
 ## 📈 Conclusion
 The analysis provides actionable insights to improve sales strategy, marketing investment, and customer experience.
+
+
+hi i'm shashwat yadav
